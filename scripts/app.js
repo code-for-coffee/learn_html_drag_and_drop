@@ -48,7 +48,7 @@ $(document).ready(function() {
     console.log('under the seeeaaaa under the sea');
     $(this).append(app.simba);
   });
-  
+
   console.log("All resources are loaded");
 
 });

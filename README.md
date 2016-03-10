@@ -1,2 +1,3 @@
-# jQueryBoilerplate
-A simple jQuery Boilerplate for students to use!
+# Learn HTML5's Drag and Drop API
+
+This source code is meant to be followed along with on this video:
