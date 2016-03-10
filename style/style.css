@@ -1,0 +1,22 @@
+#wrapper {
+  margin: auto;
+  width: 90%;
+}
+
+#left-container {
+  position: absolute;
+  float: left;
+  left: 0px;
+  width: 300px;
+  height: 200px;
+  background: limegreen;
+}
+
+#right-container {
+  position: absolute;
+  float: right;
+  right: 0px;
+  width: 300px;
+  height: 200px;
+  background: magenta;
+}
