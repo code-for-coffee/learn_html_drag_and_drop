@@ -1,0 +1,20 @@
+#show-and-hide {
+  border: 3px dashed orange;
+  font-family: 'Arial', sans-serif;
+}
+.weather {
+  border: 1px solid blue;
+  padding: 5px;
+}
+.news {
+  border: 1px solid green;
+  padding: 5px;
+}
+button {
+  border-radius: 5px;
+  font-size: 16px;
+}
+/* do not do in production or else u lose jobz */
+img {
+  position: absolute;
+}
